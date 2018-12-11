@@ -1,0 +1,273 @@
+* {
+    font-family: "montserrat", sans-serif;
+}
+
+p {
+    font-family: "Raleway", sans-serif;
+}
+
+.logo {
+    width: 120%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.header {
+    
+}
+
+.navbar-toggler {
+    margin-right: 15%;
+}
+
+.navbar-brand {
+    margin-left: 15%;
+    max-width: 100px;
+}
+
+.navbar-nav {
+    margin-right: 15%;
+}
+
+.main {
+    padding-top: 20px;
+    background-color: #C1E3DA;
+    padding-bottom: 20px;
+}
+
+.hero-image {
+    width: 70%;
+    max-width: 400px;
+}
+
+.landing {
+    margin-bottom: 30px;
+}
+
+.landing-text {
+    font-weight: 800;
+}
+
+.landing-description {
+    text-align: center;
+}
+
+.lang-btn, .lang-btn:hover,.lang-btn:focus, .lang-btn:active {
+    background-color: #B2810B;
+    border: 0;
+    margin-top: 20px;
+}
+
+.lang-item:focus {
+    background-color: #B2810B;
+}
+
+.profile-list {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.back-button {
+    margin-left: 5%;
+}
+
+.step-text {
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.profilepage {
+    margin-top: 10px;
+}
+
+#profiletitle {
+    text-align: center;
+    font-weight: 600;
+}
+
+.card {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-title, .card-subtitle {
+    text-align: center;
+}
+
+.card-img-top {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+
+.card-body p {
+    margin-bottom: 5px;
+}
+
+.button {
+    text-align: center;
+}
+
+.info-btn {
+    background: transparent;
+    color: #85CAB8;
+    border: none;
+    font-weight:500;
+}
+
+.info-btn:hover, .info-btn:focus, .info-btn:active {
+    background-color: #e0f1ed;
+    color: #85CAB8;
+}
+
+.more-info {
+    margin-left: -5px;
+    margin-right: -5px;
+    padding: 0;
+}
+
+.card-footer {
+    padding: 0;
+}
+
+.card-btn {
+    background: Transparent;
+    border-color: #B2810B;
+    color: #B2810B;
+}
+
+.card-btn:hover, .card-btn:focus, .card-btn:active {
+    background: #B2810B;
+    border-color: #B2810B;
+    color: white;
+}
+
+.choice-btn {
+    width: 100%;
+}
+
+#login-prompt {
+    text-align: center;
+}
+
+.sign-up {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+
+
+.lang-select {
+    max-width: 400px;
+}
+
+.input-area {
+    padding-top: auto;
+}
+
+.progress {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.landing {
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+}
+
+.step-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 400px;
+    min-width: 250px;
+}
+
+.step-text {
+    text-align: center;
+    font-weight: 700;
+}
+
+.step-description {
+    text-align: justify;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#next-button {
+    text-align: center;
+}
+
+.answr-btn {
+    padding: 30px 30px 30px 30px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    max-width: 400px;
+}
+
+#page_form {
+    padding-top: 20px;
+}
+
+.form-btn {
+    margin-top: -10px;
+}
+
+.form-check-inline {
+    margin-bottom: 20px;
+}
+
+#map-img {
+    min-width: 250px;
+}
+
+#zipcode {
+    max-width: 200px;
+    
+}
+
+#confirm-title {
+    text-align: center;
+}
+
+.custom-file {
+    margin-top: 10px;
+}
+
+.input-group-append {
+    margin-top: 10px;
+}
+
+.form-check {
+    margin-bottom: 10px;
+}
+
+.chat-box {
+    padding-top: 10px;
+    text-align: center;
+}
+
+#tlkio {
+    margin-top: 30px;
+    min-width: 300px;
+}
+
+.footer{
+    padding-top: 10px;
+    font-size: .5;
+}
+
+@media (mid-width: 992px)
+    .navbar-expand-lg .navbar-nav .dropdown-menu {
+        margin-right: 10px;
+}
